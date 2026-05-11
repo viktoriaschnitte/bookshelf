@@ -1,6 +1,6 @@
 ### Mein Buch-Tracker
 
-### Willkommen bei deinem persönlichen Buch-Tracking-System! Diese App hilft dir dabei, deine private Bibliothek zu verwalten, gelesene Bücher zu bewerten und deine Wunschliste im Auge zu behalten.
+Willkommen bei deinem persönlichen Buch-Tracking-System! Diese App hilft dir dabei, deine private Bibliothek zu verwalten, gelesene Bücher zu bewerten und deine Wunschliste im Auge zu behalten.
 
  ### Erste Schritte
 
@@ -16,7 +16,7 @@ Bevor du Bücher hinzufügst, solltest du in den Einstellungen deine bevorzugten
 
 ---
 
- ### Bücher verwalten
+### Bücher verwalten
 
 ### 1. Ein Buch hinzufügen
 Klicke auf den Button **"Neues Buch hinzufügen"**. Es öffnet sich ein Formular:
