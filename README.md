@@ -12,7 +12,7 @@ Willkommen bei deinem persönlichen Buch-Tracking-System! Diese App hilft dir da
  2. Genres & Tropes vorbereiten
 Bevor du Bücher hinzufügst, solltest du in den Einstellungen deine bevorzugten Kategorien definieren:
 * **Genres:** Lege fest, welche Genres (z.B. Fantasy, Krimi) du nutzt. Nur diese erscheinen später im Auswahlmenü.
-* **Tropes:** Füge typische Buch-Elemente hinzu (z.B. *Enemies to Lovers*). Diese kannst du später mehrfach einem Buch zuordnen.
+* **Tropes:** Füge typische Buch-Elemente hinzu (z.B. Enemies to Lovers). Diese kannst du später mehrfach einem Buch zuordnen.
 
 ---
 
