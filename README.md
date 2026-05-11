@@ -5,7 +5,7 @@ Willkommen bei deinem persönlichen Buch-Tracking-System! Diese App hilft dir da
  Erste Schritte
 
  1. Account & Einstellungen
-* **Anmeldung:** Melde dich über das Login-Fenster an.Der Test Account Login lautet (test@test.com Passwort:12345678)* **Design anpassen:** Gehe in die **Einstellungen**, um die Primärfarbe der App zu wählen oder den **Dark Mode** zu aktivieren.
+* **Anmeldung:** Melde dich über das Login-Fenster an. Der Test Account Login lautet (test@test.com Passwort:12345678) **Design anpassen:** Gehe in die **Einstellungen**, um die Primärfarbe der App zu wählen oder den **Dark Mode** zu aktivieren.
 * **Bewertungssystem:** Wähle in den Einstellungen zwischen dem **5-Sterne** oder **1-10 Punkte** System. 
 
  2. Genres & Tropes vorbereiten
